@@ -16,7 +16,7 @@ profile:
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
-latest_posts: disable
+
 ---
 
 Hi, I am a Neurorehabilitation trainee pursuing a Ph.D. at The University of Texas at Austin. I am interested in how increasing inhibition of the procedural network in the brain can benefit patients with Alzheimer and Dementia disease. Specifically, I am exploring how the excitation of hippocampal network neurons can contribute to this process. To study this topic, I employ a multidisciplinary approach that incorporates techniques from behavioral science, physiology, and computational methods. I aim to shed light on this complex topic.
