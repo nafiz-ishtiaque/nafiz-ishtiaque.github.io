@@ -40,7 +40,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: false
-latest_posts: disable
+latest_posts: false
 # Dimensions
 max_width: 800px
 
