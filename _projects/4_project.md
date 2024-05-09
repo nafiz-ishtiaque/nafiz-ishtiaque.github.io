@@ -2,7 +2,7 @@
 layout: page
 title: Mapping Knowledge Bases for Semantic Ontology
 description:
-img: assets/img/13.jpg
+img: assets/img/10.jpg
 importance: 4
 category: work
 related_publications: false
