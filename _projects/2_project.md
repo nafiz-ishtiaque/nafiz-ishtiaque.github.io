@@ -2,7 +2,7 @@
 layout: page
 title: MicroML - Eye Tracking with Compact Machine Learning on Arduino
 description:
-img: assets/img/4.jpg
+img: assets/img/6.jpg
 importance: 2
 category: work
 related_publications: false
