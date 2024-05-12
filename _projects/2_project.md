@@ -19,3 +19,4 @@ related_publications: false
         {% include figure.liquid loading="eager" path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+---
